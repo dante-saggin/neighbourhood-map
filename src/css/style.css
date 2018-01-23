@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+#list {
+    background-color: #DDD;
+    height: 100%;
+}
+
+#results {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 0;
+}
